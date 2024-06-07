@@ -16,4 +16,4 @@ require_once 'classes/Album.php';
 $personen = Persoon::getAll($db);
 
 // Laad de view
-include 'views/index_view.php';
+include 'views/album_view.php';
